@@ -17,3 +17,11 @@ General Business : คะแนนที่ได้
 Introduction to Computer Systems : คะแนนที่ได้
 
 Computer Programming : คะแนนที่ได้'''
+FoundationEnglish = float(input("โปรดใส่คะแนนของท่าน : "))
+GeneralBusiness   = float(input("โปรดใส่คะแนนของท่าน : "))
+ITCS              = float(input("โปรดใส่คะแนนของท่าน : "))
+ComputerPro       = float(input("โปรดใส่คะแนนของท่าน : "))
+print("Foundation English : ",FoundationEnglish ,"คะแนน")
+print("General Business   : ",GeneralBusiness ,"คะแนน")
+print("Introduction to Computer Systems : คือ ",ITCS,"คะแนน")
+print("Foundation English : ",ComputerPro ,"คะแนน")
