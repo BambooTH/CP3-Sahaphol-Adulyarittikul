@@ -21,6 +21,7 @@ FoundationEnglish = float(input("โปรดใส่คะแนนของ�
 GeneralBusiness   = float(input("โปรดใส่คะแนนของท่าน : "))
 ITCS              = float(input("โปรดใส่คะแนนของท่าน : "))
 ComputerPro       = float(input("โปรดใส่คะแนนของท่าน : "))
+print("--- Your Score ---")
 print("Foundation English : ",FoundationEnglish ,"คะแนน")
 print("General Business   : ",GeneralBusiness ,"คะแนน")
 print("Introduction to Computer Systems : คือ ",ITCS,"คะแนน")
